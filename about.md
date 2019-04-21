@@ -3,33 +3,16 @@ layout: page
 title: 关于我 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
-<p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+我毕业于北京大学本科，获得南加州大学会计硕士学位。会计师事务所安永会计师事务所（Ernst and Young LLP）工作四年，并在上市银行Opus Bank担任高级审计师三年。我现在是一名全职的房地产经纪人。是加州房地产经纪人协会和全国房地产经纪人协会的会员。也是一名注册会计师。
+
+我的目标是成为值得赖信任的房地产经纪人和朋友。我的沟通能力以及广泛和扎实的知识为我的所有客户带来满意、愉快、顺畅和成功的交易。
+
 
 <p>
 
-<h3> 我们的博客 </h3>  
+I graduated from Peking University with bachelor degree and USC with Master of Accounting degree. I have worked in Ernst and Young LLP, an accounting firm for four years and worked as a senior auditor in Opus Bank for three years. I am a full time realtor specialized in purchasing and selling properties.  I am a member in Silicon Valley Association of Realtors, California Association of Realtors and National Association of Realtors. I am also an active CPA. 
 
-<p>
-
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
-
-<p>
-
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+My goal is to be a real estate agent that people trust. My communication skills as well as the solid and broad knowledge will contribute to satisfactory, pleasant, smooth and successful transactions.
 
 <p> 
 
